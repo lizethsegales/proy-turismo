@@ -1,0 +1,22 @@
+*
+{
+    margin:20px
+}
+body
+{
+    background-color: rgb(224, 21, 21);
+    color: blueviolet;
+    font-family: fantasy;
+}
+img
+{
+    width: 200px;
+    height:200px;
+}
+p
+{
+    background-color: bisque;
+    margin: 5px;
+    padding: 5px;
+    font-size:20px;
+}
